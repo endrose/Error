@@ -8,3 +8,4 @@ Jadikan error sebagai teman, yang nanti akan membuahkan hasil dari error ini. Ap
 1. Uncaught SyntaxError: await is only valid in async function: cek di functionnya sudah ada <b>async</b> atau belum.
 2. promise pending pastikan <b>"await"</b> sudah di deklarasikan .
 3. error: "Authorization field missing" pastikan token atau api key sudah di deklarasikan.
+4. TypeError: data.photos is undefined pastikan untuk <b>Cors</b> sudah dideklarasikan.
